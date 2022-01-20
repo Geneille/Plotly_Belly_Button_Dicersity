@@ -1,1 +1,1 @@
-# Plotly_Belly_Button_Dicersity
+# Plotly_Belly_Button_Diversity
