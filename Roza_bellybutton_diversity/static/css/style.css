@@ -1,0 +1,25 @@
+body {
+    color: "black";
+}
+
+.city {
+    background-color: rgb(238, 232, 232);
+    color: black;
+    border: 2px solid black;
+    font-size: 16px;
+    margin: 20px;
+    padding: 20px;
+  }
+
+.jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    img {
+        opacity: 0.5;
+    }
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+  }
+
+  
