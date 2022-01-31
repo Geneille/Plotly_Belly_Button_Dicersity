@@ -16,6 +16,9 @@ The image presented below is a snapshot of the created dashboard. The main featu
 1. A drop down selection that allows a volunteer's ID number to be selected. 
 2. Interactive tables and charts that will then update automatically based on the selected ID.
 
+<img width="347" alt="1" src="https://user-images.githubusercontent.com/92636438/151723859-1dc4fbd4-2091-4157-bbcc-07f6804b823b.png">
+
+
 View The Deployed Project Here
-[https://donniedata.github.io/Bacteria_Biodiversity/]
+https://geneille.github.io/Plotly_Belly_Button_Diversity/Roza_bellybutton_diversity/index.html
 
