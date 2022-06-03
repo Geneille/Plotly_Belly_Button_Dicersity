@@ -19,6 +19,6 @@ The image presented below is a snapshot of the created dashboard. The main featu
 <img width="347" alt="1" src="https://user-images.githubusercontent.com/92636438/151723859-1dc4fbd4-2091-4157-bbcc-07f6804b823b.png">
 
 
-View The Deployed Project Here
+## View The Deployed Project Here
 https://geneille.github.io/Plotly_Belly_Button_Diversity/Roza_bellybutton_diversity/index.html
 
